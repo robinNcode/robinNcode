@@ -1,28 +1,28 @@
-### Hi there 👋 , I am MD Shahin Mia Robin!
-![Profile Views](https://gpvc.arturio.dev/hafijul233)
-![image](https://img.shields.io/github/followers/hafijul233?label=follow&style=social)
-    
-Hi there, I'm **MD Shahin Mia Robin**, **Software Engineer**, **Web Developer** and a **Open-Source maintainer** 🚀 from Bangladesh 🇧🇩.
+### Assalamualaikum, I'm MD Shahin Mia Robin!
+An enthusiast **Web Developer** and **Problem Solver.
 
-### Talking about Personal Stuffs:
-  - 🔭 I’m currently working as Professional Software Engineer @ADOVASOFT
-  - ⚡ Excited to create open-source projects
-  - 🌱 I’m currently learning **Software Architecture** and **Software Service Oriented Design**
-  - 💕 I'm currently maintain **adovasoft-rnd/ci-recharge**, **hafijul233/notify**
-  - 📫 You can reach me at <a href="mailto:hafijul233@gmail.com">hafijul233@gmail.com</a>
+![Profile Views](https://gpvc.arturio.dev/robinNcode)
+![image](https://img.shields.io/github/followers/robinNcode?label=follow&style=social)
+### Personal Stuffs:
+  - I’m currently working as Professional Web Developer @ADOVASOFT.
+  - Excited to create open-source projects.
+  - At present, learning **Software Engineering** and **Fundamentals of Accounting**.
+  - Currently, a contributor of **adovasoft-rnd/ci-recharge**.
+  - Learning from everyone & everywhere.
+  - You can reach me at <a href="mailto:msmrobin518@gmail.com">msmrobin518@gmail.com</a>
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=hafijul233" alt="hafijul233" /></a> </p>
+        <img src="https://github-profile-trophy.vercel.app/?username=robinNcode" alt="robinNcode" /></a> </p>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=hafijul233&show_icons=true&count_private=true" height=178 />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafijul233&layout=compact" height=178 />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=hafijul233&layout=compact" height=178 />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafijul233&layout=compact" height="178" alt="Hafijul Islam Contributions" />
+    <img src="https://github-readme-stats.vercel.app/api?username=robinNcode&show_icons=true&count_private=true" height=178 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinNcode&layout=compact" height=178 />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=robinNcode&layout=compact" height=178 />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=robinNcode&layout=compact" height="178" alt="MsM Robin's Contributions" />
 </p>
 
-### Let's connect!
+### Reach me
 <p>
-    <a href="https://www.linkedin.com/in/mohammad-hafijul-islam-b9a882137/" target="blank"><img align="left" alt="Mohammad Hafijul Islam's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="https://web.facebook.com/hafijul233" target="blank"><img align="left" alt="Mohammad Hafijul Islam's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-    <a href="https://twitter.com/hafijul233" target="blank"><img align="left" alt="Mohammad Hafijul Islam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+    <a href="https://www.linkedin.com/in/msm-robin-96b29a1b2/" target="blank"><img align="left" alt="MsM Robin's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://www.facebook.com/arrobinkhan34" target="blank"><img align="left" alt="MsM Robin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+    <a href="https://instagram.com/msmrobin07" target="blank"><img align="left" alt="MsM Robin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 </p>
