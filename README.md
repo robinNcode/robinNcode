@@ -1,5 +1,5 @@
 ### Assalamualaikum, I'm MD Shahin Mia Robin!
-An enthusiast **Web Developer** and **Problem Solver**.
+An enthusiast **Web Developer** and **Algorithmic Problem Solver**.
 
 ![Profile Views](https://gpvc.arturio.dev/robinNcode)
 ![image](https://img.shields.io/github/followers/robinNcode?label=follow&style=social)
