@@ -15,8 +15,8 @@ An enthusiast **Web Developer** and **Algorithmic Problem Solver**.
 
 [![MD Shahin Mia Robin StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13676718)](https://stackoverflow.com/users/13676718/msm-robin) 
 
-<img src="https://github-readme-stats.vercel.app/api?username=robinNcode&show_icons=true&count_private=true" width="49%" height=178 />
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=robinNcode&layout=compact" width="49%" height=178 />
+<img src="https://github-readme-stats.vercel.app/api?username=robinNcode&show_icons=true&count_private=true" width="49%" height="178" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=robinNcode&layout=compact" width="49%" height="178" />
 
 </p>
 
