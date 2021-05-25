@@ -13,7 +13,7 @@ An enthusiast **Web Developer** and **Algorithmic Problem Solver**.
 <p>
   
 [![MD Shahin Mia Robin StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13676718)](https://stackoverflow.com/users/13676718/msm-robin) 
-<img src="https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=robinNcode&theme=vue&langs_count=7" style="height:320px; width:220px"/>
+<img src="https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=robinNcode&theme=vue&langs_count=7" style="height:310px; width:220px"/>
 <img src="https://github-readme-stats.vercel.app/api?username=robinNcode&show_icons=true&count_private=true" style="height:178px; width:49%" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=robinNcode&layout=compact" style="height:178px; width:49%" />
 
