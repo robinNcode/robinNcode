@@ -15,26 +15,22 @@ An enthusiast **Web Developer** and **Algorithmic Problem Solver**.
 <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=robinNcode&layout=compact" style="height:170px;" width="55%" align="right" /></p>
 
 #### Actively Working
-<img src="https://img.shields.io/badge/%20-PHP-black?logo=php&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Javascript-black?logo=javascript&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Shell%20Script-black?logo=shell&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Python-black?logo=python&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-C%2B%2B-black?logo=cplusplus&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-C-black?logo=c&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Dart-black?logo=dart&style=for-the-badge"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30px" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30px" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30px" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30px" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30px" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="30px" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30px" width="30px" />
 
 #### Frontend Frameworks
-<img src="https://img.shields.io/badge/%20-Flutter-black?logo=flutter&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-React.js-black?logo=react&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-React Native-black?logo=react&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Bootstrap-black?logo=bootsrap&style=for-the-badge"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30px" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30px" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30px" width="30px" />         
 
 #### Backend Frameworks
-<img src="https://img.shields.io/badge/%20-Laravel-black?logo=laravel&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-CodeIgniter-black?logo=codeigniter&style=for-the-badge"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="30px" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" height="30px" width="30px" />
 
 #### Database
-<img src="https://img.shields.io/badge/%20-MySQL-black?logo=mysql&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-PostgreSQL-black?logo=postgresql&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Oracle-black?logo=oracle&style=for-the-badge"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30px" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="30px" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="30px" width="30px" />
 
 #### DevOps
-<img src="https://img.shields.io/badge/%20-Docker-black?logo=docker&style=for-the-badge"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="30px" width="30px" />
 
 #### Cloud Platform
-<img src="https://img.shields.io/badge/%20-Azure-black?logo=microsoftazure&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-GCP-black?logo=googlecloud&style=for-the-badge"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="30px" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30px" width="30px" />
 
 #### Let's be Social: 
-<p>
-    <a href="https://www.linkedin.com/in/msm-robin-96b29a1b2/" target="blank"><img align="left" alt="MsM Robin's LinkedIn" width="30px"     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="https://www.facebook.com/msmrobin" target="blank"><img align="left" alt="MsM Robin's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-</p>
+<a href="https://www.linkedin.com/in/msm-robin-96b29a1b2/" target="blank"><img align="left" alt="MsM Robin's LinkedIn" width="30px"     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <a href="https://www.facebook.com/msmrobin" target="blank"><img align="left" alt="MsM Robin's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
