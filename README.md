@@ -11,8 +11,10 @@ An enthusiast **Web Developer** and **Algorithmic Problem Solver**.
   - Learning from everyone & everywhere.
   - You can reach me at <a href="mailto:msmrobin518@gmail.com">msmrobin518@gmail.com</a>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinNcode&layout=compact" height="178px" width="35%" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=robinNcode&layout=compact" style="height:170px;" width="55%" align="right" /></p>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=robinNcode&show_icons=true&count_private=true" height=178 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinNcode&layout=compact" height=178 />
+</p>
 
 | Section | Technology |
 |---------|------------|
