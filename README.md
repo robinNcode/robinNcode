@@ -2,7 +2,8 @@
 An enthusiast **Web Developer** and **Algorithmic Problem Solver**.
 
 ![Profile Views](https://gpvc.arturio.dev/robinNcode)
-![image](https://img.shields.io/github/followers/robinNcode?label=follow&style=social)
+[![Followers](https://img.shields.io/github/followers/robinNcode?label=followers&style=social)](#)
+
 ### Personal Stuffs:
   - I’m currently working as Professional Web Developer @ADOVASOFT.
   - Excited to create open-source projects.
