@@ -27,4 +27,4 @@ An enthusiast **Web Developer** and **Algorithmic Problem Solver**.
 | Cloud Platform | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="30px" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30px" width="30px" /> |
 
 #### Let's be Social: 
-<a href="https://www.linkedin.com/in/msm-robin-96b29a1b2/" target="blank"><img align="left" alt="MsM Robin's LinkedIn" width="30px"     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <a href="https://www.facebook.com/msmrobin" target="blank"><img align="left" alt="MsM Robin's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="https://www.linkedin.com/in/robinncode/" target="blank"><img align="left" alt="MsM Robin's LinkedIn" width="30px"     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <a href="https://www.facebook.com/msmrobin" target="blank"><img align="left" alt="MsM Robin's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
