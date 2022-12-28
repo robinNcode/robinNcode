@@ -6,6 +6,7 @@
 
 ![Profile Views](https://gpvc.arturio.dev/robinNcode)
 [![Followers](https://img.shields.io/github/followers/robinNcode?label=followers&style=social)](#)
+[![wakatime](https://wakatime.com/badge/user/685b26f7-6f81-4a50-979b-8e1ae6805cb7.svg)](https://wakatime.com/@685b26f7-6f81-4a50-979b-8e1ae6805cb7)
 
 ### Personal Stuffs:
   - I’m currently working as Professional Web Developer @ADOVASOFT.
