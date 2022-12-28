@@ -1,7 +1,7 @@
 
 <h1 align="center">Assalamualaikum, I'm MD Shahin Mia Robin!</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?&width=380&height=45&lines=An+enthusiast+Software+Engineer;Algorithmic Problem Solver;Nice+To+Meet+You+...&center=true"></a>
+<img src="https://readme-typing-svg.herokuapp.com?&width=380&height=45&lines=An+enthusiast+Software+Engineer;Algorithmic+Problem+Solver;Nice+To+Meet+You...&center=true"></a>
 </p>
 <hr>
 
