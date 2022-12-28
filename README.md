@@ -3,7 +3,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?&width=380&height=45&lines=An+enthusiast+Software+Engineer;Algorithmic+Problem+Solver;Nice+To+Meet+You...&center=true"></a>
 </p>
-<hr>
 
 ![Profile Views](https://gpvc.arturio.dev/robinNcode)
 [![Followers](https://img.shields.io/github/followers/robinNcode?label=followers&style=social)](#)
