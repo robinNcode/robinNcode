@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?&width=380&height=45&lines=An+enthusiast+Software+Engineer;Algorithmic+Problem+Solver;Nice+To+Meet+You...&center=true"></a>
 </p>
 
-![Profile Views](https://gpvc.arturio.dev/robinNcode)
+[![Profile Views](https://gpvc.arturio.dev/robinNcode)](#)
 [![Followers](https://img.shields.io/github/followers/robinNcode?label=followers&style=social)](#)
 [![wakatime](https://wakatime.com/badge/user/685b26f7-6f81-4a50-979b-8e1ae6805cb7.svg)](https://wakatime.com/@685b26f7-6f81-4a50-979b-8e1ae6805cb7)
 
