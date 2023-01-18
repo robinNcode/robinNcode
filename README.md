@@ -9,6 +9,7 @@
 [![wakatime](https://wakatime.com/badge/user/685b26f7-6f81-4a50-979b-8e1ae6805cb7.svg)](https://wakatime.com/@685b26f7-6f81-4a50-979b-8e1ae6805cb7)
 
 ### Personal Stuffs:
+
   - I’m currently working as Professional Web Developer @ADOVASOFT.
   - Excited to create open-source projects.
   - At present, learning **Software Engineering** and **Fundamentals of Accounting**.
@@ -16,10 +17,9 @@
   - Learning from everyone & everywhere.
   - You can reach me at <a href="mailto:msmrobin518@gmail.com">msmrobin518@gmail.com</a>
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=robinNcode&show_icons=true&count_private=true" height=178 />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinNcode&layout=compact" height=178 />
-</p>
+[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinncode&count_private=true&show_icons=true&theme=transparent)](#)
+[![Robin's Top Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=robinNcode&layout=compact&theme=transparent")](#)
+    
 
 | Actively Working      | Technology |
 |-----------------------|------------|
