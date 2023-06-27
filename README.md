@@ -3,8 +3,8 @@
 <p align="center">
 <h4 align="center">সাধারণ, আত্মিক, অনুরাগী, ত্বরিত শিক্ষাগ্রহণকারী</h4>
 <h4 align="center">Simple, Spritual, Passionate, Quick Learner</h4>
-
-[![Profile Views](https://gpvc.arturio.dev/robinNcode)](#)
+  
+![](https://komarev.com/ghpvc/?username=robinNcode)
 [![Followers](https://img.shields.io/github/followers/robinNcode?label=followers&style=social)](#)
 [![wakatime](https://wakatime.com/badge/user/685b26f7-6f81-4a50-979b-8e1ae6805cb7.svg)](https://wakatime.com/@685b26f7-6f81-4a50-979b-8e1ae6805cb7)
 <a href="https://www.linkedin.com/in/robinncode/" target="blank"><img align="left" alt="MsM Robin's LinkedIn" width="20px"     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <a href="https://www.facebook.com/msmrobin" target="blank"><img align="left" alt="MsM Robin's Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
